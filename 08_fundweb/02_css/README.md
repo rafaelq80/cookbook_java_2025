@@ -17,8 +17,10 @@
 5. <a href="05.md">Variáveis</a>
 6. <a href="06.md">Tipografia (Fontes)</a>
 7. <a href="07.md">Box Model</a>
-8. <a href="08.md">Flexbox</a>
-9. <a href="09.md">Grid Layout</a>
+8. <a href="08.md">Posicionamento e Deslocamento</a>
+9. <a href="09.md">Pseudoclasses e Pseudoelementos</a>
+10. <a href="10.md">Flexbox</a>
+11. <a href="11.md">Grid Layout</a>
 
 <br />
 
@@ -30,13 +32,12 @@
 1. <a href="pr01.md">Projeto 01 - Portfólio - Criar a Folha de Estilo style.css</a>
 2. <a href="pr02.md">Projeto 01 - Portfólio - Estilos Globais - Parte 01</a>
 3. <a href="pr03.md">Projeto 01 - Portfólio - Estilos Globais - Parte 02</a>
-4. <a href="pr04.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header - Parte 01</a>
-5. <a href="pr05.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header - Parte 02</a>
-6. <a href="pr06.md">Projeto 01 - Portfólio - Estilização da Página index - Seção About</a>
-7. <a href="pr07.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Video</a>
-8. <a href="pr08.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Footer</a>
-9. <a href="pr09.md">Projeto 01 - Portfólio - Estilização da Página contato - Seção Contact</a>
-10. <a href="pr10.md">Projeto 01 - Portfólio - Estilização da Página contato - Seção Mapa</a>
+4. <a href="pr04.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header</a>
+5. <a href="pr05.md">Projeto 01 - Portfólio - Estilização da Página index - Seção About</a>
+7. <a href="pr06.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Video</a>
+8. <a href="pr07.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Footer</a>
+9. <a href="pr08.md">Projeto 01 - Portfólio - Estilização da Página contato - Seção Contact</a>
+10. <a href="pr09.md">Projeto 01 - Portfólio - Estilização da Página contato - Seção Mapa</a>
 
 <br /><br />
 
